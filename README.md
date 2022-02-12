@@ -8,7 +8,6 @@
 ### 🖥️ Atualmente estou cursando o 2º período de Engenharia de Software
 ### 🤔 Fato interessante: Apesar de eu gostar muito de programar web e estar procurando vaga na área, minha linguagem favorita é Java
 
-<br />
 
 ## Skills
 
