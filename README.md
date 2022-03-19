@@ -4,10 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedronascimento.contato@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
-### 💼 Estou a procura do meu primeiro estágio / emprego como programador web
+### 💼 Estou a procura do meu primeiro estágio como programador java / frontend
 ### 🖥️ Atualmente estou cursando o 2º período de Engenharia de Software
-### 🤔 Fato interessante: Apesar de eu gostar muito de programar web e estar procurando vaga na área, minha linguagem favorita é Java
-
 
 ## Skills
 
