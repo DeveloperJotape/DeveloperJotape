@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
 ### 💼 Estou a procura do meu primeiro estágio como programador java / frontend
-### 🖥️ Atualmente estou cursando o 3º período de Engenharia de Software
+### 🖥️ Atualmente estou cursando o 4º período de Engenharia de Software
 
 ## Skills
 
