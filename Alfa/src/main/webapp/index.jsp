@@ -55,7 +55,7 @@
 					</div>
 				</div>
 				<div class="carousel-item c-item">
-					<img class="d-block w-100 c-img" src="images/bg-image-1.jpg"
+					<img class="d-block w-100 c-img" src="images/bg-image-2.jpg"
 						alt="Slide 2">
 					<div class="carousel-caption d-none d-md-block">
 						<h6 class="text-uppercase">texto</h6>
@@ -120,26 +120,16 @@
 	<!-- NOSSO PRODUTO -->
 	<section class="nosso-produto bg-color-2">
 		<div class="container">
-			<div id="carouselExampleSlidesOnly" class="carousel slide"
-				data-ride="carousel">
-				<div class="carousel-inner">
-					<div class="carousel-item active">
-						<img class="d-block w-100"
-							src="images/bg-image-1.jpg"
-							alt="Segundo Slide">
-					</div>
-					<div class="carousel-item">
-						<img class="d-block w-100"
-							src="images/bg-image-1.jpg"
-							alt="Segundo Slide">
-					</div>
-					<div class="carousel-item">
-						<img class="d-block w-100"
-							src="images/bg-image-1.jpg"
-							alt="Segundo Slide">
-					</div>
-				</div>
+			<h2 class="font-color">Nosso Produto</h2>
+			<div class="produto-texto font-color">
+				<p class="text-center">
+					Não importa se é a compra do dia, da semana ou do mês, a Alfa tem
+					tudo o que você precisa. Diferentes gêneros alimentícios, produtos
+					de limpeza, padaria e seção de frios.<br> <b> Dona de casa
+						que quer economia vem comprar na Alfa!</b>
+				</p>
 			</div>
+			<img src="images/bg-image-2.jpg">
 		</div>
 	</section>
 
