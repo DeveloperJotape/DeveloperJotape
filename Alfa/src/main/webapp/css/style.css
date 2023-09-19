@@ -21,15 +21,32 @@ body {
 	color: #F1DEC9;
 }
 
+.font-color-secundary {
+	color: #8D7B68;	
+}
+
+.mg{
+	margin: 3.5em 0;
+}
+
 h1 {
 	font-weight: bold;
 	font-size: 60px;
 	text-transform: uppercase;
 }
 
+h4 {
+	font-weight: bold;
+	font-size: 28px;
+}
+
 h6 {
 	font-size: 25px;
 	font-weight: 500;
+}
+
+p {
+	font-size: 20px;
 }
 
 .btn-primary {
@@ -88,11 +105,11 @@ h6 {
 
 .navbar-nav a:hover {
 	color: #F1DEC9;
-	font-weight: 800;
 	transition: .3s;
 }
 
 /* BANNER */
+
 .c-item {
 	height: 80vh;
 }
@@ -114,4 +131,11 @@ h6 {
 
 .carousel-caption button {
 	margin-top: 40px;
+}
+
+/* ICONS */
+.icons-card i {
+	font-weight: bold;
+	font-size: 55px;
+	margin-bottom: 10px;
 }

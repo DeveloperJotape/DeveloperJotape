@@ -9,9 +9,9 @@
 	href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
 	integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
 	crossorigin="anonymous">
+<link rel="stylesheet" type="text/css"
+	href="css/fontawesome/css/all.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet"
-	href="path/to/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/style.css">
 <title>Alfa - Home</title>
 </head>
@@ -82,6 +82,64 @@
 				class="carousel-control-next-icon" aria-hidden="true"></span> <span
 				class="sr-only">Próximo</span>
 			</a>
+		</div>
+	</section>
+
+	<!-- ICONS -->
+	<section class="icons mg">
+		<div class="container">
+			<div class="row text-center">
+				<!-- ICON 1 -->
+				<div class="col-sm icons-card">
+					<i class="fa fa-coffee font-color-secundary" aria-hidden="true"></i>
+					<h4 class="font-color-secundary">Título 1</h4>
+					<div class="icons-text">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				</div>
+				<!-- ICON 2 -->
+				<div class="col-sm icons-card">
+					<i class="fa fa-money font-color-secundary" aria-hidden="true"></i>
+					<h4 class="font-color-secundary">Título 1</h4>
+					<div class="icons-text">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				</div>
+				<!-- ICON 3 -->
+				<div class="col-sm icons-card">
+					<i class="fa fa-comments-o font-color-secundary" aria-hidden="true"></i>
+					<h4 class="font-color-secundary">Título 1</h4>
+					<div class="icons-text">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- NOSSO PRODUTO -->
+	<section class="nosso-produto bg-color-2">
+		<div class="container">
+			<div id="carouselExampleSlidesOnly" class="carousel slide"
+				data-ride="carousel">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100"
+							src="images/bg-image-1.jpg"
+							alt="Segundo Slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100"
+							src="images/bg-image-1.jpg"
+							alt="Segundo Slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100"
+							src="images/bg-image-1.jpg"
+							alt="Segundo Slide">
+					</div>
+				</div>
+			</div>
 		</div>
 	</section>
 
