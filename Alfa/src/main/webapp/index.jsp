@@ -90,7 +90,7 @@
 		<div class="container">
 			<div class="row text-center">
 				<!-- ICON 1 -->
-				<div class="col-sm icons-card">
+				<div class="col-sm icons-card d-flex align-items-center flex-column">
 					<i class="fa fa-coffee font-color-secundary" aria-hidden="true"></i>
 					<h4 class="font-color-secundary">Título 1</h4>
 					<div class="icons-text">
@@ -98,7 +98,7 @@
 					</div>
 				</div>
 				<!-- ICON 2 -->
-				<div class="col-sm icons-card">
+				<div class="col-sm icons-card d-flex align-items-center flex-column">
 					<i class="fa fa-money font-color-secundary" aria-hidden="true"></i>
 					<h4 class="font-color-secundary">Título 1</h4>
 					<div class="icons-text">
@@ -106,7 +106,7 @@
 					</div>
 				</div>
 				<!-- ICON 3 -->
-				<div class="col-sm icons-card">
+				<div class="col-sm icons-card d-flex align-items-center flex-column">
 					<i class="fa fa-comments-o font-color-secundary" aria-hidden="true"></i>
 					<h4 class="font-color-secundary">Título 1</h4>
 					<div class="icons-text">
@@ -120,7 +120,7 @@
 	<!-- NOSSO PRODUTO -->
 	<section class="nosso-produto bg-color-2">
 		<div class="container">
-			<h2 class="font-color">Nosso Produto</h2>
+			<h2 class="font-color text-center">Nosso Produto</h2>
 			<div class="produto-texto font-color">
 				<p class="text-center">
 					Não importa se é a compra do dia, da semana ou do mês, a Alfa tem
@@ -133,6 +133,46 @@
 		</div>
 	</section>
 
+	<!-- DEPOIMENTOS -->
+	<section class="depoimentos mg">
+		<div class="container">
+			<h2 class="font-color-secundary text-center">Depoimentos</h2>
+			<div class="row">
+				<div class="col">					
+					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<h4 class="font-color-secundary text-center">Nome</h4>
+					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<p class="text-center">
+						<i>Bla bla bla bla a bla </i>
+					</p>
+				</div>
+				<div class="col">					
+					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<h4 class="font-color-secundary text-center">Nome</h4>
+					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<p class="text-center">
+						<i>Bla bla bla bla a bla </i>
+					</p>
+				</div>
+				<div class="col">					
+					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<h4 class="font-color-secundary text-center">Nome</h4>
+					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<p class="text-center">
+						<i>Bla bla bla bla a bla </i>
+					</p>
+				</div>
+				<div class="col">					
+					<img src="images/depoimento-1.jpg" alt="Depoimento 1">
+					<h4 class="font-color-secundary text-center">Nome</h4>
+					<h2 class="text-center"><i class="fa fa-quote-left font-color-secundary icon" aria-hidden="true"></i></h2>
+					<p class="text-center">
+						<i>Bla bla bla bla a bla </i>
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<!-- FONTAWESOME -->
 	<script src="https://kit.fontawesome.com/bf8d9f5eb9.js"
