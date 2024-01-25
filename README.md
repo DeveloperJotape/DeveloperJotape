@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedronascimento.contato@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
-### 💼 Estou a procura do meu primeiro estágio como programador java / frontend
+### 💼 Estou a procura de um cargo como desenvolvedor backend
 ### 🖥️ Atualmente estou cursando o 5º período de Engenharia de Software
 
 ## Skills
