@@ -5,12 +5,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
 ### 💼 Desenvolvedor Web da <a href="https://assemdf.com/">ASSEMDF</a>
-### 🖥️ Atualmente estou cursando o 6º período de Engenharia de Software
+### 🖥️ Atualmente cursando o 6º período de Engenharia de Software
 
 ## Skills
 
 <div style="display: inline-block;"><br />
     <img alight="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img alight="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img alight="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     <img alight="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
