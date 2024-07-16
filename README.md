@@ -10,8 +10,7 @@
 ## Skills
 
 <div style="display: inline-block;"><br />
-    <img alignt="center" alt="SPRINGBOOT" scr="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img alignt="center" alt="ANGULAR" scr="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+    <img alight="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img alight="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
     <img alight="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
