@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedronascimento.contato@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
-### 💼 Desenvolvedor Web da <a href="https://assemdf.com/">ASSEMDF</a>
+### 💼 Desenvolvedor Java 
 ### 🖥️ Atualmente cursando o 6º período de Engenharia de Software
 
 ## Skills
