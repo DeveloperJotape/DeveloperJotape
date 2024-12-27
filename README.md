@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape9411/)
 
 ### 💼 Desenvolvedor Java 
-### 🖥️ Atualmente cursando o 6º período de Engenharia de Software
+### 🖥️ Atualmente cursando o 7º período de Engenharia de Software
 
 ## Skills
 
