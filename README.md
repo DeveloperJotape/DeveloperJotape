@@ -10,10 +10,10 @@
 ## Skills
 
 <div style="display: inline-block;"><br />
-    <img alight="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img alight="center" alt="NEXT.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-    <img alight="center" alt="WORDPRESS" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    <img alight="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alight="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+    <img alight="center" alt="NESTJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
+    <img alight="center" alt="NEXTJS" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+    <img alight="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
 </div>
 
 <br />
