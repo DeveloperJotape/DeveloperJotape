@@ -10,10 +10,11 @@
 ## Skills
 
 <div style="display: inline-block;"><br />
-    <img alight="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+    <img alight="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img alight="center" alt="Springboot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     <img alight="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img alight="center" alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alight="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+    <img alight="center" alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
 <br />
